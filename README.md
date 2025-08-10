@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Carlos👋
+🌱I'm currently learning Systems Analysis and Development
 <!--
 **carloseduardo676/carloseduardo676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
