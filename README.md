@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there i'm Carlos 👋
+🌱eu estou atualmente cursando análise e desenvolvimento de sistemas🌱
 
+🤔Ainda estou me descobrindo na área mas espero grandes conquistas
+
+😄Então se tiver alguma dica para me dar ficarei muito feliz em escutar
+
+📫Aqui está o meu linkedin por curiosidade: https://www.linkedin.com/in/carlos-eduardo-da-silva-santos-7613412b0/
 <!--
 **carloseduardo676/carloseduardo676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
